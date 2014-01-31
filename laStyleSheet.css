@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-image:url(LA-Images/background.png)
+}
+
+body,td,th {
+	font-family: Georgia;
+}
+
+
+#lawrapper {
+	width: 900px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#laheader {
+	width:900px;
+	text-align:center;
+	font-family:Georgia;
+	color:#666;
+}
+#lamain {
+	width:700px;
+	text-align:center;
+	font-family:Georgia;
+	font-size:12px;
+	float:left;
+	margin-top:15px;
+}
+
+#laright {
+	width:190px;
+	text-align:center;
+	font-family:Georgia;
+	float:right;
+	margin-top:15px;
+	border-left: thin solid #999;
+	height: 700px;
+	font-size:18px;
+}
+
+a  {
+	text-decoration: none;
+	border: 0 none;
+	color:#999;
+	}
+	
+img  {
+	text-decoration: none;
+	border: 0 none;
+	}
+	
